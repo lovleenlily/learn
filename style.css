@@ -1,0 +1,29 @@
+
+/*<style>
+	p{
+		font-family : courier;
+		background color : blue;
+		border: solid 2px black;
+	}
+</style>*/
+.content {height: 400px;}
+
+p{display: inline;
+float: left;}
+body, div {
+    border: solid 2px black;
+    padding: 10px;
+    }
+#sidebar{
+    width: 20%;
+    display: inline
+    }
+#content 
+{width 60%;
+display:inline;
+}
+
+#info{ width: 20%;
+display: inline;}
+
+.menubar, footer{ background-color: azure;}
