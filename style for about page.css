@@ -1,0 +1,76 @@
+
+body {
+  font-family:  sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+
+.navbar a:hover {
+  background-color: white; color: black;
+}
+    
+  .alignright {
+    float: right;
+      margin: 0;
+    text-align:center;
+      font-size: 14px;
+}
+    .wrap {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+    
+
+.site-footer {
+    background-color: #f5f5f5;
+    font-size: 16px;
+    padding: 40px 0;
+    text-align: center;
+}
+
+    input[type=submit], .button {
+    background-color: #d23836;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1;
+    padding: 20px 24px;
+    text-transform: uppercase;
+    width: auto;
+}
+    form {
+    display: block;
+    margin-top: 0em;
+}
+    label {
+    cursor: default;
+}
+    input, select, textarea {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    color: #777;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1;
+    padding: 20px;
+    width: 100%;
+}
+
+
